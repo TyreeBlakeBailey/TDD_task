@@ -44,3 +44,5 @@ class Cacltest(unittest.TestCase):
         self.assertEqual(self.calc.percentage(50, 10), 5)
 
 ```
+- run the test with terminal command `python -m pytest Calc_test.py`
+- ` python -m inittest`
